@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UpdateApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="get_error_text">获取数据失败！</string>
+</resources>
